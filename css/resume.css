@@ -174,3 +174,9 @@ section.resume-section .resume-item .resume-date {
 .text-primary {
   color: #bd5d38 !important;
 }
+
+@media (max-width: 992px) {
+  .mb-0 {
+    font-size: 4rem;
+  }
+}
